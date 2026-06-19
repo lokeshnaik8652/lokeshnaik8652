@@ -69,22 +69,18 @@ I specialize in designing secure REST APIs, building microservices, optimizing a
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 LeetCode Stats
 
-![](https://github-readme-stats.vercel.app/api?username=lokeshnaik8652\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lokesh_Naik9876?theme=dark&font=Karma&ext=heatmap)
 
-![](https://streak-stats.demolab.com?user=lokeshnaik8652\&theme=tokyonight\&hide_border=false)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshnaik8652\&layout=compact\&theme=tokyonight)
-
----
-
-![](https://komarev.com/ghpvc/?username=lokeshnaik8652\&label=Profile%20Views\&color=0e75b6\&style=flat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Lokesh_Naik9876-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Lokesh_Naik9876/)
 
 ### 📫 Reach Me
 
 **Email:** [bhukyalokesh87@gmail.com](mailto:bhukyalokesh87@gmail.com)
 
-**LinkedIn:** linkedin.com/in/bhukya-lokesh-naik-758372268
+**LinkedIn:** https://www.linkedin.com/in/lokesh-naik-bhukya-758372268/
 
-**LeetCode:** leetcode.com/lokeshnaik
+**LeetCode:** https://leetcode.com/u/Lokesh_Naik9876/
