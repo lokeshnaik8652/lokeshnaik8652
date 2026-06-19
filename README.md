@@ -70,10 +70,11 @@ I specialize in designing secure REST APIs, building microservices, optimizing a
 ---
 
 # 🏆 LeetCode Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshnaik8652&theme=tokyonight&show_icons=true)
 
-# 🏆 LeetCode Profile
+![GitHub Streak](https://streak-stats.demolab.com?user=lokeshnaik8652&theme=tokyonight)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/lokeshnaik?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lokeshnaik?theme=dark&font=Karma&ext=heatmap)
 
 ### 📫 Reach Me
 
