@@ -69,12 +69,13 @@ I specialize in designing secure REST APIs, building microservices, optimizing a
 
 ---
 
-# 🏆 LeetCode Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshnaik8652&theme=tokyonight&show_icons=true)
+# 📊 Coding Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lokeshnaik8652&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lokesh_Naik9876?theme=dark&font=Karma&ext=heatmap)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lokeshnaik?theme=dark&font=Karma&ext=heatmap)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshnaik8652&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=lokeshnaik8652&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### 📫 Reach Me
 
