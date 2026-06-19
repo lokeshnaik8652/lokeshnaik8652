@@ -70,9 +70,10 @@ I specialize in designing secure REST APIs, building microservices, optimizing a
 ---
 
 # 🏆 LeetCode Stats
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Lokesh_Naik9876-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Lokesh_Naik9876/)
+# 🏆 LeetCode Profile
+
+![LeetCode Stats](https://leetcode.card.workers.dev/lokeshnaik?theme=dark&font=baloo&extension=null)
 
 ### 📫 Reach Me
 
