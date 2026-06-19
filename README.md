@@ -4,49 +4,13 @@
 
 I specialize in designing secure REST APIs, building microservices, optimizing application performance, and developing full-stack solutions that solve real-world problems. Passionate about continuous learning and creating impactful software that serves thousands of users.
 
-🔭 **Currently Working On**
+🔭 Currently building scalable Java & Spring Boot applications for Government Digital Transformation Projects.
 
-* Government Digital Transformation Projects
-* Microservices Architecture
-* Secure REST APIs
-* Performance Optimization
+🌱 Exploring Microservices, System Design, Docker, Kubernetes, and Cloud-Native Development.
 
-👯 **Looking to Collaborate On**
+💬 Ask me about Java, Spring Boot, React.js, PostgreSQL, Redis, REST APIs, JWT Authentication, and AWS.
 
-* Java & Spring Boot Projects
-* Open Source Contributions
-* Backend Engineering
-* Full-Stack Web Applications
-
-🚀 **Areas of Interest**
-
-* System Design
-* Cloud Architecture (AWS)
-* Kubernetes
-* Distributed Systems
-* Scalable Backend Development
-
-🌱 **Currently Learning**
-
-* Microservices Architecture
-* Docker
-* Kubernetes
-* Advanced System Design
-* Cloud-Native Development
-
-💬 **Ask Me About**
-
-* Java
-* Spring Boot
-* React.js
-* PostgreSQL
-* Redis
-* REST APIs
-* JWT Authentication
-* AWS
-
-⚡ **Fun Fact**
-My applications currently support **100,000+ students** and operations across **13,000+ villages** across Andhra Pradesh.
+⚡ Built solutions supporting 100,000+ students and operations across 13,000+ villages in Andhra Pradesh.
 
 ---
 
