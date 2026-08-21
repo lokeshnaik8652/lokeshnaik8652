@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🚀 **Software Engineer at APCFSS** with 1+ year of experience developing scalable enterprise applications using **Java, Spring Boot, React.js, PostgreSQL, Redis, and AWS**.
+🚀 **Software Engineer at APCFSS** with 3+ year of experience developing scalable enterprise applications using **Java, Spring Boot, React.js, PostgreSQL, Redis, and AWS**.
 
 I specialize in designing secure REST APIs, building microservices, optimizing application performance, and developing full-stack solutions that solve real-world problems. Passionate about continuous learning and creating impactful software that serves thousands of users.
 
